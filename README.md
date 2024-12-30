@@ -11,8 +11,8 @@
 ╭──❒ <b>All MENU BOT</b><br>
 ├• 📌 #pushkontak [text]<br>
 ├• 📌 #pushid [idgroup]|[text]<br>
-├• 📌 #savekontak [idgroup]<br>
-├• 📌 #getidgc<br>
+├• 📌 save [idgroup]<br>
+├• 📌 boker<br>
 └────────────><br>
 > Untuk mendapatkan <b>idgroup</b> kirim pesan <b>#getidgc</b> pastikan anda telah masuk ke group target agar anda dapat mengirim pesan keseluruh member group. Import file yang dihasilkan dari <b>#savekontak [idgroup]</b> untuk menyimpan kontak.
 
@@ -30,10 +30,10 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
+global.owner = ["6283841350073"];
+global.author = "AKBAR STORE";
 global.packname = "Push-Kontak";
-global.sessionName = "Bot-Session";
+global.sessionName = "Bot-BOKER ARAB";
 global.versionbot = "1.2.0";
 ```
 
@@ -52,7 +52,7 @@ $ npm start
 ## UNTUK PENGGUNA PANEL PTERODACTYL
 
 * Panel Pterodactyle [`Klik Disini`](https://panel.respayment.site)
-* Kontak Pembelian [`Klik Disini`](https://wa.me/+6285742632270)
+* Kontak Pembelian [`Klik Disini`](https://wa.me/+6283841350073)
 
 ```bash
 $ npm install
