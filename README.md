@@ -30,7 +30,7 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
+global.owner = ["6282177940464"];
 global.author = "RezaDevv";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
