@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![MANTER AKBAR STORE-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Push Kontak
 
 ***Push Kontak dibuat dengan nodejs menggunakan library [Bailyes](https://github.com/WhiskeySockets/Baileys)***
@@ -30,8 +30,8 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
+global.owner = ["6283841350073"];
+global.author = "Akbar store";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
 global.versionbot = "1.2.0";
@@ -52,7 +52,7 @@ $ npm start
 ## UNTUK PENGGUNA PANEL PTERODACTYL
 
 * Panel Pterodactyle [`Klik Disini`](https://panel.respayment.site)
-* Kontak Pembelian [`Klik Disini`](https://wa.me/+6285742632270)
+* Kontak Pembelian [`Klik Disini`](https://wa.me/+6283841350073)
 
 ```bash
 $ npm install
@@ -71,7 +71,7 @@ $ npm start
 ```
 
 ## Thanks To
-* [`ResahDevv`](https://github.com/resahdevv)
+* [`akbarstore`](https://github.com/resahdevv)
 
 ```Thanks to all who have participated in the development of this script```
 
